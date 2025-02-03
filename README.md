@@ -35,7 +35,7 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 <h4>If a student is kicked out of their exam:</h4>
 
 1. Check for an open SecureTest window:
-    - Hold down Alt and press Tab to cycle through open windows
+    - Hold down ```Alt``` and press ```Tab``` to cycle through open windows
     - Or select Task View on the taskbar to view all open windows
 2. If their exam window is still open, select it and continue
 3. If SecureTest unexpectedly closes
