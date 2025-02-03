@@ -6,25 +6,24 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 
 <h4>To access SecureTest, students/recruits should:</h4>
 
-- Connect to a blue line (if available) or RTC-Students Wi-Fi
-- Ensure issued laptops are fully charged before the exam
-- Ensure SecureTest software is up to date
-- Students/recruits should check the Software Center (pinned to the taskbar) to see if any updates are pending
-- Ensure their issued phones are fully charged in case they need to tether to mobile data
-- Verify internet connectivity:
-- Open a web browser and navigate to an external site (e.g., Google or Amazon)
-- Once successful, close all opened tabs and windows
-- Access SecureTest:
-- Open a browser and navigate to SecureTest via the saved bookmark or enter the URL:
-- https://usgov.securetest.com/home/200167/
-- Login Process:
-- Some students may be redirected to the SecureTest Access Page. If so, they must log in and wait for further instructions
-- Others may go directly to SecureTest's Main Page. They should wait for further instructions
+1. Connect to a ethernet line (if available) or Student (or) Employee Wi-Fi
+2. Ensure issued laptops are fully charged before the exam
+3. Ensure SecureTest software is up to date
+  - Students should check the Software Center (pinned to the taskbar) to see if any updates are pending
+4. Ensure their phones are fully charged in case they need to tether to mobile data
+5. Verify internet connectivity:
+  - Open a web browser and navigate to an external site (e.g., Google or Amazon)
+  - Once successful, close all opened tabs and windows
+6. Access SecureTest:
+  - Open a browser and navigate to SecureTest via a saved bookmark or enter the URL: SecureTest_Sample_Link
+7. Login Process:
+  - Some students may be redirected to the SecureTest Access Page. If so, they must log in and wait for further instructions
+  - Others may go directly to SecureTest's Main Page
 
 <h4>Exam Availability:</h4>
 
 - Students should see their exam listed under “My Assessments”
-- If an exam is missing, contact the SecureTest team immediately
+- If an exam is not loading or is missing, contact the SecureTest team immediately
 
 <h2>Basic Troubleshooting in SecureTest</h2>
 
