@@ -49,12 +49,12 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 <h4>If a student cannot connect to RTC-Students Wi-Fi:</h4>
 
 1. Have them check their VPN status in Zscaler
-        - Click the caret icon on the taskbar (bottom-right)
-        - Click the Zscaler icon to open the application
+   - Click the caret icon on the taskbar (bottom-right)
+    - Click the Zscaler icon to open the application
 2. Ensure the following:
-        - VPN – Service Status should be “On”
-        - Authentication Status should be “Authenticated”
-        - If either status is incorrect, use the Turn On/Off or Authenticate Early function to reset
+   - VPN – Service Status should be “On”
+    - Authentication Status should be “Authenticated”
+    - If either status is incorrect, use the Turn On/Off or Authenticate Early function to reset
 3. If the issue persists, the student should contact IT (see below)
 
 <h4>Additional Troubleshooting Steps:</h4>
