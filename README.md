@@ -9,16 +9,16 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 1. Connect to a ethernet line (if available), alternatively conect to the Student (or) Employee Wi-Fi
 2. Ensure laptops are fully charged before the exam or have charging cable plugged in for duration of exam
 3. Ensure SecureTest software is up to date
-  - Students should check the Software Center (pinned to the taskbar) to see if any updates are pending
+    - Students should check the Software Center (pinned to the taskbar) to see if any updates are pending
 4. Ensure their phones are fully charged in case they need to tether to mobile data
 5. Verify internet connectivity:
-  - Open a web browser and navigate to an external site (e.g., Google or Amazon)
-  - Once successful, close all opened tabs and windows
+    - Open a web browser and navigate to an external site (e.g., Google or Amazon)
+    - Once successful, close all opened tabs and windows
 6. Access SecureTest:
-  - Open a browser and navigate to SecureTest via a saved bookmark or enter the URL: SecureTest_Sample_Link
+    - Open a browser and navigate to SecureTest via a saved bookmark or enter the URL: SecureTest_Sample_Link
 7. Login Process:
-  - Some students may be redirected to the SecureTest Access Page. If so, they must log in and wait for further instructions
-  - Others may go directly to SecureTest's Main Page
+    - Some students may be redirected to the SecureTest Access Page. If so, they must log in and wait for further instructions
+    - Others may go directly to SecureTest's Main Page
 
 <h4>Exam Availability:</h4>
 
@@ -34,15 +34,15 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 
 <h4>If a student is kicked out of their exam:</h4>
 
-- Check for an open SecureTest window:
-- Hold down Alt and press Tab to cycle through open windows
-- OR select Task View on the taskbar to view all open windows
-- If their exam window is still open, select it and continue
-- If SecureTest unexpectedly closes
-- Re-enter SecureTest via the link
-- The exam should be available under "My Assessments" with an option to resume
-- If the exam does not appear, inform a SecureTest team member
-- If SecureTest closes before the student can submit the exam or if they cannot select “Submit,” notify a SecureTest team member immediately
+1. Check for an open SecureTest window:
+    - Hold down Alt and press Tab to cycle through open windows
+    - Or select Task View on the taskbar to view all open windows
+2. If their exam window is still open, select it and continue
+3. If SecureTest unexpectedly closes
+    - Re-enter SecureTest via the link
+    - The exam should be available under "My Assessments" with an option to resume
+4. If the exam does not appear, inform a SecureTest team member
+5. If SecureTest closes before the student can submit the exam or if they cannot select “Submit,” notify a SecureTest team member immediately
 
 <h2>SecureTest VPN Troubleshooting (Wi-Fi Users)</h2>
 
