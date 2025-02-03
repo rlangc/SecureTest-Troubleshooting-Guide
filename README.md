@@ -22,15 +22,15 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 
 <h4>Exam Availability:</h4>
 
-1. Students should see their exam listed under “My Assessments”
-2. If an exam is not loading or is missing, contact the SecureTest team immediately
+- Students should see their exam listed under “My Assessments”
+- If an exam is not loading or is missing, contact the SecureTest team immediately
 
 <h2>Basic Troubleshooting in SecureTest</h2>
 
 <h4>If a student cannot access SecureTest:</h4>
 
-- Have them close and reopen their browser
-- Ensure they are connected to the correct Wi-Fi network
+1. Have them close and reopen their browser
+2. Ensure they are connected to the correct Wi-Fi network
 
 <h4>If a student is kicked out of their exam:</h4>
 
