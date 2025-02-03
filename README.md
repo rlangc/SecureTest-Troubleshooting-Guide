@@ -7,7 +7,7 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 <h4>To access SecureTest, students/recruits should:</h4>
 
 1. Connect to a ethernet line (if available), alternatively conect to the Student (or) Employee Wi-Fi
-2. Ensure issued laptops are fully charged before the exam
+2. Ensure laptops are fully charged before the exam or have charging cable plugged in for duration of exam
 3. Ensure SecureTest software is up to date
   - Students should check the Software Center (pinned to the taskbar) to see if any updates are pending
 4. Ensure their phones are fully charged in case they need to tether to mobile data
@@ -30,7 +30,7 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 <h4>If a student cannot access SecureTest:</h4>
 
 - Have them close and reopen their browser
-- Ensure they are connected to the correct Wi-Fi network (RTC-Students)
+- Ensure they are connected to the correct Wi-Fi network
 
 <h4>If a student is kicked out of their exam:</h4>
 
