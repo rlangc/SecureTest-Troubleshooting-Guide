@@ -1,10 +1,8 @@
 # SecureTest Access and Troubleshooting Guide
 
-Here’s a refined and expanded troubleshooting guide with a new name for the testing tool. I'll rename "QuestionMark (QM)" to "SecureTest" throughout and improve clarity and structure.
-SecureTest Troubleshooting Guide
+This SecureTest Access and Troubleshooting Guide provides step-by-step instructions for students, Subject Matter Experts (SMEs), and exam proctors to resolve common issues related to SecureTest access, connectivity, VPN authentication, and exam interruptions. It outlines pre-exam setup requirements, troubleshooting procedures for login and test disruptions, and solutions for network or VPN-related problems, ensuring a smooth and efficient testing experience.
 
-For Subject Matter Experts (SMEs) and/or Proctors
-SecureTest Access
+<h2>SecureTest Access</h2>
 
 To access SecureTest, students/recruits should:
 
@@ -28,7 +26,8 @@ Exam Availability:
     Students should see their exam listed under “My Assessments.”
     If an exam is missing, contact the SecureTest team immediately.
 
-Basic Troubleshooting in SecureTest
+<h2>Basic Troubleshooting in SecureTest</h2>
+
 If a student cannot access SecureTest:
 
     Have them close and reopen their browser.
@@ -46,7 +45,8 @@ If a student is kicked out of their exam:
         If the exam does not appear, inform a SecureTest team member.
     If SecureTest closes before the student can submit the exam or if they cannot select “Submit,” notify a SecureTest team member immediately.
 
-SecureTest VPN Troubleshooting (Wi-Fi Users)
+<h2>SecureTest VPN Troubleshooting (Wi-Fi Users)</h2>
+
 If a student cannot connect to RTC-Students Wi-Fi:
 
     Have them check their VPN status in Zscaler.
@@ -79,12 +79,15 @@ If SecureTest disconnects due to VPN/Wi-Fi loss during the exam:
         If no blue line is available, have the student use a spare laptop, switch users (CTRL + ALT + DEL), insert their PIV card, and log in as usual.
     If SecureTest still does not function, contact RTC IT.
 
-RTC IT Contact Information:
+IT Contact Information:
 
-📞 Phone: 240-624-3090 (4-3090)
-SecureTest Support Team
+📞 Phone: 000-000-0000 (0-0000)
+
+<h2>SecureTest Support Team</h2>
 
 For exam-related issues, contact the SecureTest team at:
 📧 Email: [SecureTest Support Email]
 
-This guide ensures students and proctors have clear troubleshooting steps for SecureTest, VPN, and connectivity issues. Let me know if you'd like any further refinements! 🚀
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
