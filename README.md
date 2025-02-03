@@ -1,4 +1,4 @@
-# SecureTest-Troubleshooting-Guide
+# SecureTest Access and Troubleshooting Guide
 
 Here’s a refined and expanded troubleshooting guide with a new name for the testing tool. I'll rename "QuestionMark (QM)" to "SecureTest" throughout and improve clarity and structure.
 SecureTest Troubleshooting Guide
