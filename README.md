@@ -22,8 +22,8 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 
 <h4>Exam Availability:</h4>
 
-- Students should see their exam listed under “My Assessments”
-- If an exam is not loading or is missing, contact the SecureTest team immediately
+1. Students should see their exam listed under “My Assessments”
+2. If an exam is not loading or is missing, contact the SecureTest team immediately
 
 <h2>Basic Troubleshooting in SecureTest</h2>
 
