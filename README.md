@@ -22,7 +22,7 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 
 <h4>Exam Availability:</h4>
 
-- Students should see their exam listed under “My Assessments”
+- Students should see their exam listed under “Scheduled Exams”
 - If an exam is not loading or is missing, contact the SecureTest team immediately
 
 <h2>Basic Troubleshooting in SecureTest</h2>
@@ -40,17 +40,17 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 2. If their exam window is still open, select it and continue
 3. If SecureTest unexpectedly closes
     - Re-enter SecureTest via the link
-    - The exam should be available under "My Assessments" with an option to resume
+    - The exam should be available under "Scheduled Exams" with an option to resume
 4. If the exam does not appear, inform a SecureTest team member
 5. If SecureTest closes before the student can submit the exam or if they cannot select “Submit,” notify a SecureTest team member immediately
 
 <h2>SecureTest VPN Troubleshooting (Wi-Fi Users)</h2>
 
-<h4>If a student cannot connect to RTC-Students Wi-Fi:</h4>
+<h4>If a student cannot connect to Student (or) Employee Wi-Fi:</h4>
 
-1. Have them check their VPN status in Zscaler
+1. Have them check their VPN status in NordVPN
    - Click the caret icon on the taskbar (bottom-right)
-    - Click the Zscaler icon to open the application
+    - Click the NordVPN icon to open the application
 2. Ensure the following:
    - VPN – Service Status should be “On”
     - Authentication Status should be “Authenticated”
@@ -61,9 +61,9 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 
 - If the VPN is connected, but SecureTest remains inaccessible, disconnect and reconnect the VPN
 - If they still cannot connect to the VPN:
-    - Close Zscaler
-    - Disconnect from RTC-Students
-    - Reconnect to RTC-Students
+    - Close NordVPN
+    - Disconnect from Student (or) Employee Wi-Fi
+    - Reconnect to Student (or) Employee Wi-Fi
     - Try to re-authenticate
     - Restart the computer if necessary
 
