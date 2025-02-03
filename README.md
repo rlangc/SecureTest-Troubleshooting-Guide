@@ -15,7 +15,7 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
     - Open a web browser and navigate to an external site (e.g., Google or Amazon)
     - Once successful, close all opened tabs and windows
 6. Access SecureTest:
-    - Open a browser and navigate to SecureTest via a saved bookmark or enter the URL: SecureTest_Sample_Link
+    - Open a browser and navigate to SecureTest via a saved bookmark or enter the URL: ```SecureTest_Sample_Link```
 7. Login Process:
     - Some students may be redirected to the SecureTest Access Page. If so, they must log in and wait for further instructions
     - Others may go directly to SecureTest's Main Page
