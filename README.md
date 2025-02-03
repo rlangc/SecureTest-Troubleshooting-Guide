@@ -6,7 +6,7 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 
 <h4>To access SecureTest, students/recruits should:</h4>
 
-1. Connect to a ethernet line (if available) or Student (or) Employee Wi-Fi
+1. Connect to a ethernet line (if available), alternatively conect to the Student (or) Employee Wi-Fi
 2. Ensure issued laptops are fully charged before the exam
 3. Ensure SecureTest software is up to date
   - Students should check the Software Center (pinned to the taskbar) to see if any updates are pending
