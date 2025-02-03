@@ -48,35 +48,35 @@ This SecureTest Access and Troubleshooting Guide provides step-by-step instructi
 
 <h4>If a student cannot connect to RTC-Students Wi-Fi:</h4>
 
-- Have them check their VPN status in Zscaler
-- Click the caret icon on the taskbar (bottom-right)
-- Click the Zscaler icon to open the application
-- Ensure the following:
-- VPN – Service Status should be “On”
-- Authentication Status should be “Authenticated”
-- If either status is incorrect, use the Turn On/Off or Authenticate Early function to reset
-- If the issue persists, the student should contact IT (see below)
+1. Have them check their VPN status in Zscaler
+        - Click the caret icon on the taskbar (bottom-right)
+        - Click the Zscaler icon to open the application
+2. Ensure the following:
+        - VPN – Service Status should be “On”
+        - Authentication Status should be “Authenticated”
+        - If either status is incorrect, use the Turn On/Off or Authenticate Early function to reset
+3. If the issue persists, the student should contact IT (see below)
 
 <h4>Additional Troubleshooting Steps:</h4>
 
 - If the VPN is connected, but SecureTest remains inaccessible, disconnect and reconnect the VPN
 - If they still cannot connect to the VPN:
-- Close Zscaler
-- Disconnect from RTC-Students
-- Reconnect to RTC-Students
-- Try to re-authenticate
-- Restart the computer if necessary
+    - Close Zscaler
+    - Disconnect from RTC-Students
+    - Reconnect to RTC-Students
+    - Try to re-authenticate
+    - Restart the computer if necessary
 
 <h4>If SecureTest disconnects due to VPN/Wi-Fi loss during the exam:</h4>
 
-- If prompted with a message about lost connectivity, have them select “OK”
-- Have them verify their VPN connection
-- If VPN shows as disconnected, follow the above steps to reconnect
-- If issues persist:
-- If available, connect to a blue line (most classrooms have 1-2 access points)
-- Close and reopen the browser, then access SecureTest again
-- If no blue line is available, have the student use a spare laptop, switch users (CTRL + ALT + DEL), insert their PIV card, and log in as usual
-- If SecureTest still does not function, contact IT
+1. If prompted with a message about lost connectivity, have them select “OK”
+2. Have them verify their VPN connection
+3. If VPN shows as disconnected, follow the above steps to reconnect
+4. If issues persist:
+        - If available, connect to a blue line (most classrooms have 1-2 access points)
+        - Close and reopen the browser, then access SecureTest again
+        - If no ethernet line is available, have the student use a spare laptop, switch users (```CTRL``` + ```ALT``` + ```DEL```), and log in as usual
+5. If SecureTest still does not function, contact IT
 
 <h3>IT Contact Information:</h3>
 
