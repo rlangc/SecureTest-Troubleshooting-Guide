@@ -90,4 +90,4 @@ For exam-related issues, contact the SecureTest team at:
 
 <h2></h2>
 <p align="center">
-  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
+  <a href="https://github.com/rlangc/rlangc.git"><b>Return to Home</b></a>
